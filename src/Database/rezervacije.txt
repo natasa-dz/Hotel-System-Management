@@ -1,0 +1,13 @@
+1|djole@email.com|10|2022-09-23|2022-09-28|POTVRDJENA|false|false|26000.0
+2|mika@email.com|20|2022-10-15|2022-10-22|POTVRDJENA|false|false|24000.0
+3|djole@email.com|30|2022-12-21|2022-12-29|OTKAZANA|false|false|23000.0
+4|mika@email.com|40|2022-11-21|2022-11-29|NA_CEKANJU|false|false|12000.0
+6|djole@email.com|20|2022-10-23|2022-10-28|NA_CEKANJU|false|false|32000.0
+7|djole@email.com|50|2022-08-23|2022-08-28|ODBIJENA|false|false|28000.0
+8|djole@email.com|40|2022-08-16|2022-08-20|OTKAZANA|false|false|28000.0
+9|djole@email.com|10|2022-09-25|2022-09-28|NA_CEKANJU|false|false|10700.0
+10|milic1@email.com|40|2022-06-16|2022-06-20|OTKAZANA|false|false|28000.0
+11|mira1@email.com|50|2022-07-10|2022-07-11|POTVRDJENA|true|true|10700.0
+12|milic1@email.com|60|2022-08-16|2022-08-20|POTVRDJENA|true|true|28000.0
+13|mira1@email.com|70|2022-05-10|2022-05-11|OTKAZANA|false|false|10700.0
+14|djole@email.com|10|2022-09-09|2022-09-10|ODBIJENA|false|false|15400.0
