@@ -1,0 +1,7 @@
+1|dorucak|1100
+2|vecera|1000
+3|masaza|3400
+4|sauna|4500
+5|rucak|1300
+6|spa|3800
+7|mini-bar|4000

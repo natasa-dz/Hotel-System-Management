@@ -1,0 +1,6 @@
+Djordje|Djordjevic|MUSKI|2001-01-01|0624232476|Dositejeva 12, Beograd|djole2@email.com|4444|ADMINISTRATOR|3|FAKULTET|0
+Mika|Mikic|MUSKI|1998-09-09|0654432236|Cvijiceva 9, Kragujevac|mika2@email.com|1414|RECEPCIONAR|7|SREDNJA_SKOLA|0
+Jovan|Jovanovic|MUSKI|1995-05-05|0634127354|Ilije Ognjenovica 12, Novi Sad|jovanJ@gmail.com|2346|RECEPCIONAR|3|SREDNJA_SKOLA|0
+Jovana|Jokanovic|ZENSKI|1994-02-02|0698227654|Ilije Bircanina 10, Subotica|jovanaJ@gmail.com|2376|ADMINISTRATOR|7|FAKULTET|0
+Mila|Aleksic|ZENSKI|2000-03-03|0698221111|Kosovska 21, Zemun|mila1@gmail.com|1230|SOBARICA|7|SREDNJA_SKOLA|1
+Anja|Ilic|ZENSKI|1998-04-14|0698222345|Gunduliceva 17, Vrbas|anja1@gmail.com|6789|SOBARICA|7|SREDNJA_SKOLA|1

@@ -1,0 +1,4 @@
+Djordje|Djordjevic|MUSKI|1996-02-09|0624232476|Dositejeva 12, Beograd|djole@email.com|4444
+Mika|Mikic|MUSKI|1996-04-09|0654432236|Cvijiceva 9, Kragujevac|mika@email.com|1414
+Mira|Miric|ZENSKI|1996-03-09|0624432236|Cvijiceva 9, Sombor|mira1@email.com|1234
+Milana|Milic|ZENSKI|1996-09-09|0634432236|Kragujevacka 9, Zmajevo|milic1@email.com|1111

@@ -1,0 +1,8 @@
+10|cetvorokrevetna(2+1+1)|SLOBODNO|mila1@gmail.com|KLIMA, BALKON,NEPUSACKA
+20|cetvorokrevetna(2+2)|SPREMANJE|mila1@gmail.com|BALKON,TV, NEPUSACKA
+30|dvokrevetna sa jednim lezajem(2)|SLOBODNO|anja1@gmail.com|BALKON,TV,PUSACKA
+40|dvokrevetna sa dva lezaja(1+1)|SPREMANJE|anja1@gmail.com|PUSACKA,TV
+50|trokrevetna(2+1)|SLOBODNO|mila1@gmail.com|KLIMA,TV
+60|trokrevetna(1+1+1)|SLOBODNO|mila1@gmail.com|KLIMA,TV,BALKON
+70|dvokrevetna sa dva lezaja(1+1)|SLOBODNO|anja1@gmail.com|KLIMA,BALKON
+80|cetvorokrevetna(2+2)|SLOBODNO|anja1@gmail.com|PUSACKA
